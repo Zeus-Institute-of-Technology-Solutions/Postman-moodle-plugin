@@ -1,2 +1,2 @@
 <?php
-$string['pluginname'] = 'Mstar Custom Services';
+$string['pluginname'] = 'Postman Moodle Plugin';

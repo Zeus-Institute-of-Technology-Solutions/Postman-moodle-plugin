@@ -21,7 +21,7 @@ $functions = array(
 );
 
 $services = array(
-    'M-Star Custom Services' => array(
+    'Postman Moodle Plugin' => array(
         'functions' => array(
             'local_custom_service_update_courses_lti',
             'local_custom_service_update_courses_sections'
